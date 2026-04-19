@@ -26,7 +26,11 @@ def create_rfm_df(df):
 
 
 # 2. LOAD DATA
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv(
+    "all_data.csv",
+    encoding="utf-8",
+    on_bad_lines="skip"
+)
 
 # Konversi kolom tanggal ke datetime agar filter berfungsi
 datetime_columns = ["order_purchase_timestamp"]
