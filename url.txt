@@ -1,0 +1,3 @@
+Link file yang sudah di upload di GitHub : https://github.com/sukmatulak129/E-Commerce
+
+Link Dashboard Streamlit : https://e-commerce-cxaloq6ay4qbbrxc8grhqz.streamlit.app/
