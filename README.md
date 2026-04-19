@@ -32,6 +32,7 @@ streamlit run dashboard/dashboard.py
 Pada file dashboard.py:
 - Versi GitHub menggunakan data dari link (raw GitHub)
 - Versi ZIP menggunakan file lokal (all_data.csv)
+
 **Hal ini bertujuan agar dashboard dapat berjalan baik secara online maupun offline.**
 
 ## Disclaimer penggunaan AI : 
