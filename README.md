@@ -1,5 +1,10 @@
 # E-Commerce Data Analysis
 
+## Identitas
+- **Nama:** Sukma Novianti Tulak
+- **Email:** CDCC237D6X1337@student.devacademy.id
+- **ID Dicoding:** CDCC237D6X1337
+  
 ## Pertanyaan Bisnis
 - Pertanyaan 1 : Kategori produk apa yang memiliki rata-rata skor ulasan (review score) tertinggi dan terendah?
 - Pertanyaan 2 : Bagaimana segmentasi pelanggan berdasarkan parameter RFM (Recency, Frequency, Monetary)?
