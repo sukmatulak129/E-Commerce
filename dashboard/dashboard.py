@@ -26,7 +26,7 @@ def create_rfm_df(df):
 
 
 # 2. LOAD DATA
-url = "https://raw.githubusercontent.com/sukmatulak129/E-Commerce/refs/heads/main/dashboard/all_data.csv"
+url = "https://raw.githubusercontent.com/sukmatulak129/E-Commerce/main/dashboard/all_data.csv"
 
 all_df = pd.read_csv(
     url,
